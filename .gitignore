@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+reports/
+data/
+.DS_Store
+.idea/
+.slideguard_cache/
+.file_cache/
